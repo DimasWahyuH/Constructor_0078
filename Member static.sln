@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Member static", "Member sta
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Member statik function", "Member statik function\Member statik function.vcxproj", "{79759092-1E6D-4058-9DD5-819EC4249AD0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Contruktor", "Contruktor\Contruktor.vcxproj", "{CEE39223-FE24-4E85-A943-876DCEC7FB26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{79759092-1E6D-4058-9DD5-819EC4249AD0}.Release|x64.Build.0 = Release|x64
 		{79759092-1E6D-4058-9DD5-819EC4249AD0}.Release|x86.ActiveCfg = Release|Win32
 		{79759092-1E6D-4058-9DD5-819EC4249AD0}.Release|x86.Build.0 = Release|Win32
+		{CEE39223-FE24-4E85-A943-876DCEC7FB26}.Debug|x64.ActiveCfg = Debug|x64
+		{CEE39223-FE24-4E85-A943-876DCEC7FB26}.Debug|x64.Build.0 = Debug|x64
+		{CEE39223-FE24-4E85-A943-876DCEC7FB26}.Debug|x86.ActiveCfg = Debug|Win32
+		{CEE39223-FE24-4E85-A943-876DCEC7FB26}.Debug|x86.Build.0 = Debug|Win32
+		{CEE39223-FE24-4E85-A943-876DCEC7FB26}.Release|x64.ActiveCfg = Release|x64
+		{CEE39223-FE24-4E85-A943-876DCEC7FB26}.Release|x64.Build.0 = Release|x64
+		{CEE39223-FE24-4E85-A943-876DCEC7FB26}.Release|x86.ActiveCfg = Release|Win32
+		{CEE39223-FE24-4E85-A943-876DCEC7FB26}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
